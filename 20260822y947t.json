@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "title": "工厂模式与 Nest.js 核心思想 —— 从蜜雪冰城到企业级架构",
+    "author": "舒伳鳟",
+    "time": "2026年08月22日23时40分49秒",
+    "version": "2.0"
+  },
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListOrder": "https://schema.org/ItemListOrderUnordered",
+  "name": "美军航母神话正在被发霉的厕所戳破",
+  "description": "泽连斯基，遭遇大麻烦",
+  "about": {
+    "@type": "Thing",
+    "name": "www.share.mwuly.cn"
+  },
+  "mainEntity": {
+    "@type": "WebPage",
+    "name": "女孩顺风车内暴晒2小时求救",
+    "description": "内容页的详细描述，可包含www.share.mwuly.cn的相关信息。",
+    "author": {
+      "@type": "Person",
+      "name": "凁饡慰"
+    },
+    "datePublished": "2026年08月22日23时40分49秒",
+    "dateModified": "2026年08月22日23时40分49秒",
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "超5000只个股下跌 明天如何应对",
+      "url": "http://www.share.mwuly.cn/Article/details/287015.sHtML"
+    }
+  },
+  "share_links": [
+    {
+      "platform": "看懂银河通用，就读懂了具身智能的未来",
+      "share_url": "http://www.share.mwuly.cn/Article/details/723518.sHtML"
+    },
+{
+      "platform": "狮驼岭3v3，为什么沙僧直接冲上去干最猛的大鹏？",
+      "share_url": "http://www.share.mwuly.cn/Article/details/797852.sHtML"
+    },
+{
+      "platform": "CUDA 到底是什么？理解 GPU 编程的核心抽象：Thread、Block、Warp 与 Memory Hierarchy",
+      "share_url": "http://www.share.mwuly.cn/Article/details/924499.sHtML"
+    },
+{
+      "platform": "SpaceX二季度营收78.14亿美元，同比增长92%",
+      "share_url": "http://www.share.mwuly.cn/Article/details/031575.sHtML"
+    },
+{
+      "platform": "高级前端如何优雅地拒绝不合理的产品需求？",
+      "share_url": "http://www.share.mwuly.cn/Article/details/790145.sHtML"
+    },
+{
+      "platform": "男子反抗暴力强拆致死被判无罪",
+      "share_url": "http://www.share.mwuly.cn/Article/details/715937.sHtML"
+    },
+{
+      "platform": "为何说8月18号是市场重要分水岭",
+      "share_url": "http://www.share.mwuly.cn/Article/details/997318.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness 公测，对标 Claude Cowork ；长鑫科技市值超越腾讯；OpenAI 年化营收有望翻番达 400 亿美元",
+      "share_url": "http://www.share.mwuly.cn/Article/details/704730.sHtML"
+    },
+{
+      "platform": "马上评丨张兰终审败诉，重申“公众人物容忍义务”",
+      "share_url": "http://www.share.mwuly.cn/Article/details/441066.sHtML"
+    },
+    {
+      "platform": "女子隆胸术后一周查出怀孕五周，认为医院术前检查不到位要求退款，院方予以拒绝，如何从法律角度解读？",
+      "share_url": "http://www.share.mwuly.cn/Article/details/218960.sHtML"
+    },
+{
+      "platform": "紫牛头条｜江苏3岁罕见病女童完成冷冻卵巢手术，妈妈：希望给女儿未来选择的权利",
+      "share_url": "http://www.share.mwuly.cn/Article/details/333684.sHtML"
+    },
+{
+      "platform": "50＋女人到底该不该“塞衣角”？看完这3组对比图，你就知道答案",
+      "share_url": "http://www.share.mwuly.cn/Article/details/217958.sHtML"
+    },
+{
+      "platform": "这家靠全景起步的公司，正在逐步让用户「忘掉相机」",
+      "share_url": "http://www.share.mwuly.cn/Article/details/049626.sHtML"
+    },
+{
+      "platform": "CMS_Setup(3.0.2.11)电脑端添加各个品牌监控",
+      "share_url": "http://www.share.mwuly.cn/Article/details/688275.sHtML"
+    },
+{
+      "platform": "刚访华不久，美国会机构就嚷嚷：中国占尽优势，咱也得搞",
+      "share_url": "http://www.share.mwuly.cn/Article/details/719025.sHtML"
+    },
+{
+      "platform": "上海：推动 300 米以下低空公共航路实现移动通信网络全线覆盖",
+      "share_url": "http://www.share.mwuly.cn/Article/details/273800.sHtML"
+    },
+{
+      "platform": "升学宴墙体倒塌事故亲历者：左边右边都遇难 来不及喊",
+      "share_url": "http://www.share.mwuly.cn/Article/details/936189.sHtML"
+    },
+{
+      "platform": "女子坐高铁遇咸猪手果断报警",
+      "share_url": "http://www.share.mwuly.cn/Article/details/955288.sHtML"
+    },
+{
+      "platform": "老妈身上的伤口就像“活火山口”，一汪血水混合着脓水",
+      "share_url": "http://www.share.mwuly.cn/Article/details/073723.sHtML"
+    },
+    {
+      "platform": "42岁男子玩漂流致骨折瘫痪",
+      "share_url": "http://www.share.mwuly.cn/Article/details/106408.sHtML"
+    },
+{
+      "platform": "一年半以前救助的小可爱",
+      "share_url": "http://www.share.mwuly.cn/Article/details/384888.sHtML"
+    },
+{
+      "platform": "老人别把“没力气”当正常衰老",
+      "share_url": "http://www.share.mwuly.cn/Article/details/237956.sHtML"
+    },
+{
+      "platform": "“AI剧像喂猪一样 实在吃不下了”",
+      "share_url": "http://www.share.mwuly.cn/Article/details/845728.sHtML"
+    },
+{
+      "platform": "用剩菜剩饭直接喂猪违法",
+      "share_url": "http://www.share.mwuly.cn/Article/details/003892.sHtML"
+    },
+{
+      "platform": "夯爆了！！ 有这么好吃的猕猴桃，你怎么不早点告诉我！！！",
+      "share_url": "http://www.share.mwuly.cn/Article/details/407419.sHtML"
+    },
+{
+      "platform": "独自拥有的那些瞬间",
+      "share_url": "http://www.share.mwuly.cn/Article/details/706270.sHtML"
+    },
+{
+      "platform": "这是青岛哪位大佬？这么嚣张",
+      "share_url": "http://www.share.mwuly.cn/Article/details/912431.sHtML"
+    },
+{
+      "platform": "王力宏：演出前一晚机器人出现 Bug，宇树团队通宵写代码解决",
+      "share_url": "http://www.share.mwuly.cn/Article/details/337829.sHtML"
+    },
+{
+      "platform": "现在KTV里还有这种表演？",
+      "share_url": "http://www.share.mwuly.cn/Article/details/164740.sHtML"
+    },
+    {
+      "platform": "当 AI 开始批量写 HTML，WorkBuddy 想解决「生成之后」的问题",
+      "share_url": "http://www.share.mwuly.cn/Article/details/659671.sHtML"
+    },
+{
+      "platform": "这是我喜欢的【今天有什么好笑的 #2480】",
+      "share_url": "http://www.share.mwuly.cn/Article/details/502068.sHtML"
+    },
+{
+      "platform": "圆通速递 2026 年上半年归母净利润 31.75 亿元，同比增长 73.44%",
+      "share_url": "http://www.share.mwuly.cn/Article/details/842403.sHtML"
+    },
+{
+      "platform": "5分钟，看完《牛来》全剧情",
+      "share_url": "http://www.share.mwuly.cn/Article/details/973705.sHtML"
+    },
+{
+      "platform": "谁还没收到华晨宇七夕送的花",
+      "share_url": "http://www.share.mwuly.cn/Article/details/779105.sHtML"
+    },
+{
+      "platform": "这也太爽了吧，我也想要这么干",
+      "share_url": "http://www.share.mwuly.cn/Article/details/013651.sHtML"
+    },
+{
+      "platform": "“迫害陆配的人，终身追责”",
+      "share_url": "http://www.share.mwuly.cn/Article/details/343285.sHtML"
+    },
+{
+      "platform": "烤肉店回应店内不雅标语",
+      "share_url": "http://www.share.mwuly.cn/Article/details/981800.sHtML"
+    },
+{
+      "platform": "江浙沪作为典型的南方地区，为什么嗜好面食，满大街都是面馆",
+      "share_url": "http://www.share.mwuly.cn/Article/details/570216.sHtML"
+    },
+{
+      "platform": "鸿蒙组件化设计横空出世",
+      "share_url": "http://www.share.mwuly.cn/Article/details/121189.sHtML"
+    },
+    {
+      "platform": "她若不牺牲，十大元帅可能会有女元帅？贺龙：她的军事成就比我高",
+      "share_url": "http://www.share.mwuly.cn/Article/details/844777.sHtML"
+    },
+{
+      "platform": "苏神百万年薪简历翻车：一个包装争议，给后端同学的 5 个工程视角警示",
+      "share_url": "http://www.share.mwuly.cn/Article/details/343838.sHtML"
+    },
+{
+      "platform": "名侦探柯南大结局已经画好了",
+      "share_url": "http://www.share.mwuly.cn/Article/details/774866.sHtML"
+    },
+{
+      "platform": "火影手游晓三飞段全技能爆料",
+      "share_url": "http://www.share.mwuly.cn/Article/details/021200.sHtML"
+    },
+{
+      "platform": "我看见两朵一样的云",
+      "share_url": "http://www.share.mwuly.cn/Article/details/045257.sHtML"
+    },
+{
+      "platform": "泽连斯基遭遇大麻烦",
+      "share_url": "http://www.share.mwuly.cn/Article/details/641431.sHtML"
+    },
+{
+      "platform": "美伊谅解备忘录谈判窗口到期陷僵局，特朗普称不与伊朗会谈，伊朗坚持霍尔木兹海峡开放须先解除制裁",
+      "share_url": "http://www.share.mwuly.cn/Article/details/917506.sHtML"
+    },
+{
+      "platform": "女孩买空座放零食 大姐想坐遭拒",
+      "share_url": "http://www.share.mwuly.cn/Article/details/701295.sHtML"
+    },
+{
+      "platform": "洛阳一桥护栏开裂水泥块一掰就掉落",
+      "share_url": "http://www.share.mwuly.cn/Article/details/624424.sHtML"
+    },
+{
+      "platform": "乘风 Zhang Concepts“超级三合一”战术包",
+      "share_url": "http://www.share.mwuly.cn/Article/details/482204.sHtML"
+    },
+    {
+      "platform": "两尊唐代石狮被人夜间盗走十余年 公安部门悬赏100万",
+      "share_url": "http://www.share.mwuly.cn/Article/details/725532.sHtML"
+    },
+{
+      "platform": "为什么跳槽涨薪 30% 的时代彻底结束了？聊聊 2026 前端薪资的天花板",
+      "share_url": "http://www.share.mwuly.cn/Article/details/830005.sHtML"
+    },
+{
+      "platform": "多名网友称百度网盘未经授权私自代其报税 平台方回应",
+      "share_url": "http://www.share.mwuly.cn/Article/details/349842.sHtML"
+    },
+{
+      "platform": "男子将遗产全部留给弟弟不给妻儿",
+      "share_url": "http://www.share.mwuly.cn/Article/details/347418.sHtML"
+    },
+{
+      "platform": "该配合你演出的我视而不见",
+      "share_url": "http://www.share.mwuly.cn/Article/details/180081.sHtML"
+    },
+{
+      "platform": "虹猫蓝兔写给90后00后的一封信",
+      "share_url": "http://www.share.mwuly.cn/Article/details/499882.sHtML"
+    },
+{
+      "platform": "超详细白帽黑客学习路线",
+      "share_url": "http://www.share.mwuly.cn/Article/details/456580.sHtML"
+    },
+{
+      "platform": "赛力斯 2026 年半年度归母亏损 17.17 亿元，同比下降 158.38%",
+      "share_url": "http://www.share.mwuly.cn/Article/details/496696.sHtML"
+    },
+{
+      "platform": "旅游失败：暑期旺季“打卡式旅游”，真的还不如在家看纪录片",
+      "share_url": "http://www.share.mwuly.cn/Article/details/637088.sHtML"
+    },
+{
+      "platform": "Qwen3.8-27B开源实测：本地部署+Coze接入全流程，27B多模态模型16GB显卡可跑",
+      "share_url": "http://www.share.mwuly.cn/Article/details/979233.sHtML"
+    },
+    {
+      "platform": "老叟戏顽童之模仿棋",
+      "share_url": "http://www.share.mwuly.cn/Article/details/356631.sHtML"
+    },
+{
+      "platform": "石家庄居民楼坍塌致3死",
+      "share_url": "http://www.share.mwuly.cn/Article/details/756378.sHtML"
+    },
+{
+      "platform": "人民日报：腐败案“两个80%”的警示",
+      "share_url": "http://www.share.mwuly.cn/Article/details/241870.sHtML"
+    },
+{
+      "platform": "迪丽热巴陈飞宇恋情传闻时间线",
+      "share_url": "http://www.share.mwuly.cn/Article/details/186624.sHtML"
+    },
+{
+      "platform": "宇树科技上市首日收涨 460%，盘中一度暴涨 629%，市值突破 4400 亿，如何评价其市场表现？",
+      "share_url": "http://www.share.mwuly.cn/Article/details/555010.sHtML"
+    },
+{
+      "platform": "滴滴 AI 研发岗一面：Agent 有几种设计模式？不能只背五个名字",
+      "share_url": "http://www.share.mwuly.cn/Article/details/497576.sHtML"
+    },
+{
+      "platform": "西部矿业2026年半年度营收394.43亿元，同比增长25%",
+      "share_url": "http://www.share.mwuly.cn/Article/details/952631.sHtML"
+    },
+{
+      "platform": "全球长债遭抛售，30 年期美债收益率升破 5.3%，创 2007 年以来新高，将如何影响全球经济？",
+      "share_url": "http://www.share.mwuly.cn/Article/details/833160.sHtML"
+    },
+{
+      "platform": "5万以下的燃油车 正在被遗忘",
+      "share_url": "http://www.share.mwuly.cn/Article/details/960438.sHtML"
+    },
+{
+      "platform": "璞泰来 2026 年半年度归母净利润 14.52 亿元，同比增长 37.58%",
+      "share_url": "http://www.share.mwuly.cn/Article/details/030471.sHtML"
+    },
+    {
+      "platform": "生产 CI/CD 可以完全交给 AI Agent 吗？我们用 30 天验证了一次",
+      "share_url": "http://www.share.mwuly.cn/Article/details/042685.sHtML"
+    },
+{
+      "platform": "中国西电 2026 年半年度归母净利润 6.88 亿元，同比增长 15.03%",
+      "share_url": "http://www.share.mwuly.cn/Article/details/662770.sHtML"
+    },
+{
+      "platform": "知识回顾：Vue 生命周期十道面试题，钩子函数必问",
+      "share_url": "http://www.share.mwuly.cn/Article/details/397153.sHtML"
+    },
+{
+      "platform": "龙芯胡伟武：3B6600 用 1Xnm 工艺追平 AMD 英特尔 7nm 性能",
+      "share_url": "http://www.share.mwuly.cn/Article/details/794966.sHtML"
+    },
+{
+      "platform": "20822 star 的开源录屏软件弃 Tauri 换 Electron：表层是换壳，里子是 46 个 Rust 模块",
+      "share_url": "http://www.share.mwuly.cn/Article/details/318736.sHtML"
+    },
+{
+      "platform": "七夕老公直接送“有钱花” 网友酸了",
+      "share_url": "http://www.share.mwuly.cn/Article/details/529809.sHtML"
+    },
+{
+      "platform": "敕令搜典(一款Everything插件）瞬间菜鸟成为元婴级大能",
+      "share_url": "http://www.share.mwuly.cn/Article/details/759560.sHtML"
+    },
+{
+      "platform": "中铁二局新运公司被住建部警告，1年内不得再次申请这项行政许可",
+      "share_url": "http://www.share.mwuly.cn/Article/details/587413.sHtML"
+    },
+{
+      "platform": "游客称在洪崖洞周边拍照遭商拍驱赶，重庆渝中：对商拍霸占机位“零容忍”",
+      "share_url": "http://www.share.mwuly.cn/Article/details/099220.sHtML"
+    },
+{
+      "platform": "这场文艺汇演如同百花齐放",
+      "share_url": "http://www.share.mwuly.cn/Article/details/936600.sHtML"
+    },
+    {
+      "platform": "奥特曼瘫坐叫停“GPT-6”训练！太强触发最高安全警报",
+      "share_url": "http://www.share.mwuly.cn/Article/details/656497.sHtML"
+    },
+{
+      "platform": "降至2.7%！银行房贷利率再现低位",
+      "share_url": "http://www.share.mwuly.cn/Article/details/867620.sHtML"
+    },
+{
+      "platform": "3 个月烧掉 105 亿，腾讯急了",
+      "share_url": "http://www.share.mwuly.cn/Article/details/872037.sHtML"
+    },
+{
+      "platform": "纪念奥特曼 60 周年：全新特别短片《赛罗奥特曼 宇宙跃升》中字版上线，坂本浩一执导",
+      "share_url": "http://www.share.mwuly.cn/Article/details/303323.sHtML"
+    },
+{
+      "platform": "GitHub Actions 玩法大赏：一台远程主机的七种活法",
+      "share_url": "http://www.share.mwuly.cn/Article/details/364170.sHtML"
+    },
+{
+      "platform": "班主任出嫁学生组电动车队一路护送",
+      "share_url": "http://www.share.mwuly.cn/Article/details/676969.sHtML"
+    },
+{
+      "platform": "一天回到解放前，玩尼尕爹！",
+      "share_url": "http://www.share.mwuly.cn/Article/details/647694.sHtML"
+    },
+{
+      "platform": "笔试前13名全淘汰 倒数5名全逆袭",
+      "share_url": "http://www.share.mwuly.cn/Article/details/735686.sHtML"
+    },
+{
+      "platform": "关于对应用DNA科学公司等6家美国实体采取反制措施的决定",
+      "share_url": "http://www.share.mwuly.cn/Article/details/991844.sHtML"
+    },
+{
+      "platform": "迁移uni-app x，我是如何让 AI 把我一步步搞崩溃的...",
+      "share_url": "http://www.share.mwuly.cn/Article/details/273248.sHtML"
+    },
+    {
+      "platform": "葛卫东朋友圈“喊话”坚定看多AI：我是相信没结束的",
+      "share_url": "http://www.share.mwuly.cn/Article/details/184624.sHtML"
+    },
+{
+      "platform": "婚外胚胎案男方发声：一直愿意配合销毁胚胎；妻子回应：声明避重就轻，至今未见任何实质性举措",
+      "share_url": "http://www.share.mwuly.cn/Article/details/623151.sHtML"
+    },
+{
+      "platform": "教师招聘笔试前13名落选、后5名进体检名单？佛山通报",
+      "share_url": "http://www.share.mwuly.cn/Article/details/224584.sHtML"
+    },
+{
+      "platform": "女子车内出现死蛇臭了三天才发现",
+      "share_url": "http://www.share.mwuly.cn/Article/details/331956.sHtML"
+    },
+{
+      "platform": "大学生一个月给多少生活费合适",
+      "share_url": "http://www.share.mwuly.cn/Article/details/684866.sHtML"
+    },
+{
+      "platform": "日本民众排队5小时买中国相机",
+      "share_url": "http://www.share.mwuly.cn/Article/details/351697.sHtML"
+    },
+{
+      "platform": "性和裸露本应发生在私密空间，影视剧里的床戏恰恰相反",
+      "share_url": "http://www.share.mwuly.cn/Article/details/715730.sHtML"
+    },
+{
+      "platform": "处长单位门口遭枪击高位截瘫7年后去世 案件25年未破",
+      "share_url": "http://www.share.mwuly.cn/Article/details/406399.sHtML"
+    },
+{
+      "platform": "杭州酒局事件升级！知情人曝当晚细节，恶心一幕发声，受害女生照片被传播",
+      "share_url": "http://www.share.mwuly.cn/Article/details/758368.sHtML"
+    },
+{
+      "platform": "广州一人行道树池泥土表面被水泥封死引热议 街道回应",
+      "share_url": "http://www.share.mwuly.cn/Article/details/098223.sHtML"
+    },
+    {
+      "platform": "公安悬赏100万寻被盗石狮",
+      "share_url": "http://www.share.mwuly.cn/Article/details/767636.sHtML"
+    },
+{
+      "platform": "267 英寸巨幕打游戏、第一视角拍 Coser，雷鸟创新CJ26亮相",
+      "share_url": "http://www.share.mwuly.cn/Article/details/621479.sHtML"
+    },
+{
+      "platform": "中学教师招聘笔试前13名被淘汰后5名进体检 官方通报",
+      "share_url": "http://www.share.mwuly.cn/Article/details/045741.sHtML"
+    },
+{
+      "platform": "177/62kg 高个子苹果型大骨架淡人的夏季穿搭（佛系更新ing",
+      "share_url": "http://www.share.mwuly.cn/Article/details/625987.sHtML"
+    },
+{
+      "platform": "患者就诊中昏迷医生被索赔",
+      "share_url": "http://www.share.mwuly.cn/Article/details/626135.sHtML"
+    },
+{
+      "platform": "白衣男子疯狂挥拳挑衅，却被黑衣男子单手按倒击打",
+      "share_url": "http://www.share.mwuly.cn/Article/details/388467.sHtML"
+    },
+{
+      "platform": "金莎再唱《星月神话》",
+      "share_url": "http://www.share.mwuly.cn/Article/details/776971.sHtML"
+    },
+{
+      "platform": "旺旺官宣“听劝版”新品将上线",
+      "share_url": "http://www.share.mwuly.cn/Article/details/875282.sHtML"
+    },
+{
+      "platform": "美军演习主力被乌军全歼",
+      "share_url": "http://www.share.mwuly.cn/Article/details/715072.sHtML"
+    },
+{
+      "platform": "杭州梭子蟹价格持续回落",
+      "share_url": "http://www.share.mwuly.cn/Article/details/249522.sHtML"
+    },
+    {
+      "platform": "8年感情，老公对我很好，但我好像已经不爱他了怎么办？",
+      "share_url": "http://www.share.mwuly.cn/Article/details/040996.sHtML"
+    },
+{
+      "platform": "人形机器人运动会，比什么",
+      "share_url": "http://www.share.mwuly.cn/Article/details/247753.sHtML"
+    },
+{
+      "platform": "金山云 2026 财年第二财季归母亏损 9307.8 万元，同比亏损收窄 79.65%",
+      "share_url": "http://www.share.mwuly.cn/Article/details/282737.sHtML"
+    },
+{
+      "platform": "为什么有钱人都喜欢往漂亮国跑？",
+      "share_url": "http://www.share.mwuly.cn/Article/details/966785.sHtML"
+    },
+{
+      "platform": "公安部门悬赏100万寻找石狮子",
+      "share_url": "http://www.share.mwuly.cn/Article/details/940224.sHtML"
+    },
+{
+      "platform": "冷战核废墟变八吉瓦AI超级工厂！黄仁勋押十五亿，OpenAI独霸二十年",
+      "share_url": "http://www.share.mwuly.cn/Article/details/239685.sHtML"
+    },
+{
+      "platform": "辣眼睛！三伏天公园又现“赤裸晒背”，有人说这是“个人自由”，有人觉得“不雅观”，医生提醒：这类人群坚决不能晒",
+      "share_url": "http://www.share.mwuly.cn/Article/details/557089.sHtML"
+    },
+{
+      "platform": "时隔21年，上海地铁将调价",
+      "share_url": "http://www.share.mwuly.cn/Article/details/162164.sHtML"
+    },
+{
+      "platform": "结婚8年发现三娃均非亲生 男方已将孩子全部送还女方",
+      "share_url": "http://www.share.mwuly.cn/Article/details/260057.sHtML"
+    },
+{
+      "platform": "深度学习实战-基于Resnet50的极端天气物体探测识别模型",
+      "share_url": "http://www.share.mwuly.cn/Article/details/563312.sHtML"
+    },
+    {
+      "platform": "我们的少年时代2探病花絮",
+      "share_url": "http://www.share.mwuly.cn/Article/details/363343.sHtML"
+    },
+{
+      "platform": "奇耻大辱,我的网站被挂马,服务器已沦陷三个月",
+      "share_url": "http://www.share.mwuly.cn/Article/details/290864.sHtML"
+    },
+{
+      "platform": "男子花9元喜中1728万大奖",
+      "share_url": "http://www.share.mwuly.cn/Article/details/973012.sHtML"
+    },
+{
+      "platform": "波斯湾的美军要跑路了？",
+      "share_url": "http://www.share.mwuly.cn/Article/details/475792.sHtML"
+    },
+{
+      "platform": "RAG检索优化实战：从67%到92%，我做了这4步",
+      "share_url": "http://www.share.mwuly.cn/Article/details/151171.sHtML"
+    },
+{
+      "platform": "Anthropic全面部署Claude隐形文本水印；DeepSeek峰谷分时定价机制生效；南海伏季休渔期结束",
+      "share_url": "http://www.share.mwuly.cn/Article/details/737913.sHtML"
+    },
+{
+      "platform": "我老公精力旺盛得吓人，一天只睡三个小时，体能恢复的也特别快",
+      "share_url": "http://www.share.mwuly.cn/Article/details/079944.sHtML"
+    },
+{
+      "platform": "情侣领证男生把婚前财产都给女生",
+      "share_url": "http://www.share.mwuly.cn/Article/details/476247.sHtML"
+    },
+{
+      "platform": "东北第一城等到重开一局",
+      "share_url": "http://www.share.mwuly.cn/Article/details/405581.sHtML"
+    },
+{
+      "platform": "一年体脂降10%，我发现：改变行动的不是自律，而是认知",
+      "share_url": "http://www.share.mwuly.cn/Article/details/278081.sHtML"
+    },
+    {
+      "platform": "为什么会有人认为苏联是邪恶的？苏联帮助我们156项工业基础",
+      "share_url": "http://www.share.mwuly.cn/Article/details/435220.sHtML"
+    },
+{
+      "platform": "女孩下海遭海蜇蜇伤进ICU 母亲：5米外的救生员未施救",
+      "share_url": "http://www.share.mwuly.cn/Article/details/827559.sHtML"
+    },
+{
+      "platform": "沙特阿美突然“放量”：欧洲9月原油足额供应，恢复霍尔木兹海峡内装船",
+      "share_url": "http://www.share.mwuly.cn/Article/details/419608.sHtML"
+    },
+{
+      "platform": "中签长鑫宇树男子回应打新技巧",
+      "share_url": "http://www.share.mwuly.cn/Article/details/542080.sHtML"
+    },
+{
+      "platform": "皇马为伯纳多-席尔瓦举行官方欢迎仪式，双方签约2年",
+      "share_url": "http://www.share.mwuly.cn/Article/details/074485.sHtML"
+    },
+{
+      "platform": "《异环》全球流水破 20 亿元：完美世界 2026 上半年由盈转亏 1.18 亿元，多款在研项目储备中",
+      "share_url": "http://www.share.mwuly.cn/Article/details/080864.sHtML"
+    },
+{
+      "platform": "为库里冲冠继续补强！美媒支招勇士签3人：押宝西蒙斯+抄底托马斯",
+      "share_url": "http://www.share.mwuly.cn/Article/details/965375.sHtML"
+    },
+{
+      "platform": "左奇函陈奕恒香港路透",
+      "share_url": "http://www.share.mwuly.cn/Article/details/404115.sHtML"
+    },
+{
+      "platform": "以你目前的眼光，你会选女儿还是妈妈？",
+      "share_url": "http://www.share.mwuly.cn/Article/details/277777.sHtML"
+    },
+{
+      "platform": "《牛来》火了？我用ThreeJs实现了一个简易版的，代码全送给你，文章最后附演示效果",
+      "share_url": "http://www.share.mwuly.cn/Article/details/907821.sHtML"
+    },
+    {
+      "platform": "最强助眠运动！游泳、撸铁都不如它",
+      "share_url": "http://www.share.mwuly.cn/Article/details/506549.sHtML"
+    },
+{
+      "platform": "做磁共振检查，忘了摘“999足金”的金镯子，万万没想到……",
+      "share_url": "http://www.share.mwuly.cn/Article/details/853344.sHtML"
+    },
+{
+      "platform": "舞蹈区集体cos洛天依跳舞",
+      "share_url": "http://www.share.mwuly.cn/Article/details/460085.sHtML"
+    },
+{
+      "platform": "说句大实话，小米现阶段的困境，本质上就是饭圈文化的后遗症",
+      "share_url": "http://www.share.mwuly.cn/Article/details/192009.sHtML"
+    },
+{
+      "platform": "破局智驾高门槛，10万级大六座星海V6搭载华为乾崑智驾ADS 5 SE载誉下线",
+      "share_url": "http://www.share.mwuly.cn/Article/details/925833.sHtML"
+    },
+{
+      "platform": "智驾“小蓝灯”不合国标将被禁用，网友：它就是马路闪光弹和软柿子！",
+      "share_url": "http://www.share.mwuly.cn/Article/details/634845.sHtML"
+    },
+{
+      "platform": "多地官宣今年秋假时间",
+      "share_url": "http://www.share.mwuly.cn/Article/details/349773.sHtML"
+    },
+{
+      "platform": "华东首个，京东物流长三角至京津冀电商多式联运快速班列成功开行",
+      "share_url": "http://www.share.mwuly.cn/Article/details/337294.sHtML"
+    },
+{
+      "platform": "台湾火箭试射失败坠毁被嘲正常发挥",
+      "share_url": "http://www.share.mwuly.cn/Article/details/946147.sHtML"
+    },
+{
+      "platform": "赛力斯上半年营收574.93亿元",
+      "share_url": "http://www.share.mwuly.cn/Article/details/164261.sHtML"
+    },
+    {
+      "platform": "原价898元西瓜售出77单，平台回应“营养高10倍”：将提交质检部门调查",
+      "share_url": "http://www.share.mwuly.cn/Article/details/546075.sHtML"
+    },
+{
+      "platform": "微软产品改名有多频繁？2023 年改了 18 款，有粉丝专门为此建站追踪",
+      "share_url": "http://www.share.mwuly.cn/Article/details/508165.sHtML"
+    },
+{
+      "platform": "日本防卫省计划大规模扩编，新设「防卫基盘局」等 3 个部门，日媒评价「非常罕见」，此举有哪些意图？",
+      "share_url": "http://www.share.mwuly.cn/Article/details/447812.sHtML"
+    },
+{
+      "platform": "读懂微信 AI 底层逻辑：普通人、商家掘金完整手册",
+      "share_url": "http://www.share.mwuly.cn/Article/details/677673.sHtML"
+    },
+{
+      "platform": "前端切图仔被 AI 新闻淹死的第 N 天,我用 TRAE Work 定时任务救了自己",
+      "share_url": "http://www.share.mwuly.cn/Article/details/798288.sHtML"
+    },
+{
+      "platform": "SEC公布加密货币监管方案",
+      "share_url": "http://www.share.mwuly.cn/Article/details/106952.sHtML"
+    },
+{
+      "platform": "司机开智驾玩手机冲进施工区",
+      "share_url": "http://www.share.mwuly.cn/Article/details/836871.sHtML"
+    },
+{
+      "platform": "河南暴雨农户蹚没腰积水抢收花生",
+      "share_url": "http://www.share.mwuly.cn/Article/details/845529.sHtML"
+    },
+{
+      "platform": "HarmonyOS 圆角渲染优化实战：从「clip陷阱」到「borderRadius原生加速」的GPU调优方案",
+      "share_url": "http://www.share.mwuly.cn/Article/details/648785.sHtML"
+    },
+{
+      "platform": "ACM MM'26 | 浙大开源PhyEdit：单图编辑+精准3D物体操作",
+      "share_url": "http://www.share.mwuly.cn/Article/details/233858.sHtML"
+    },
+    {
+      "platform": "为什么大家看《甄嬛传》时总跳过凌云峰谈恋爱？这背后其实反映了这种心理",
+      "share_url": "http://www.share.mwuly.cn/Article/details/284650.sHtML"
+    },
+{
+      "platform": "尼罗河都流经沙漠了，为什么没有水土流失？黄河却这么严重？",
+      "share_url": "http://www.share.mwuly.cn/Article/details/703916.sHtML"
+    },
+{
+      "platform": "沙特，印度人的严父！像管理牲口一样管理印度人~",
+      "share_url": "http://www.share.mwuly.cn/Article/details/770945.sHtML"
+    },
+{
+      "platform": "固态电池真的那么完美吗？",
+      "share_url": "http://www.share.mwuly.cn/Article/details/359403.sHtML"
+    },
+{
+      "platform": "1662年、近代概率论的奠基者帕斯卡逝世",
+      "share_url": "http://www.share.mwuly.cn/Article/details/089989.sHtML"
+    },
+{
+      "platform": "一款抗癌疫苗引爆美股医药股",
+      "share_url": "http://www.share.mwuly.cn/Article/details/993229.sHtML"
+    },
+{
+      "platform": "TikTok带货博主卷疯快递：三天，从深圳到伦敦",
+      "share_url": "http://www.share.mwuly.cn/Article/details/880043.sHtML"
+    },
+{
+      "platform": "你能接受视频“暂停广告”吗？",
+      "share_url": "http://www.share.mwuly.cn/Article/details/292368.sHtML"
+    },
+{
+      "platform": "解码提速15.1倍、多任务性能不降：复旦&引望WAM-Diff2打通自动驾驶VLA自回归—扩散转换",
+      "share_url": "http://www.share.mwuly.cn/Article/details/463470.sHtML"
+    },
+{
+      "platform": "《人民日报》刊文：“两个80%”的警示",
+      "share_url": "http://www.share.mwuly.cn/Article/details/627982.sHtML"
+    },
+    {
+      "platform": "没想到狗血剧情发生我身上",
+      "share_url": "http://www.share.mwuly.cn/Article/details/006871.sHtML"
+    },
+{
+      "platform": "升学宴墙体倒塌致5死17伤，伤者家属：孩子一只脚已截肢，还在ICU",
+      "share_url": "http://www.share.mwuly.cn/Article/details/882738.sHtML"
+    },
+{
+      "platform": "企退月均3640，事退8136：差距不该让老人用余生来等",
+      "share_url": "http://www.share.mwuly.cn/Article/details/046498.sHtML"
+    },
+{
+      "platform": "干娘带你看七夕线下脱单盛况",
+      "share_url": "http://www.share.mwuly.cn/Article/details/441013.sHtML"
+    },
+{
+      "platform": "在花大钱之前，先花一笔小钱验证你的决策",
+      "share_url": "http://www.share.mwuly.cn/Article/details/063478.sHtML"
+    },
+{
+      "platform": "“齐刘海狮子”阿杭去世，稀有的白狮又少了一头……",
+      "share_url": "http://www.share.mwuly.cn/Article/details/742541.sHtML"
+    },
+{
+      "platform": "PopTrans-v1.0.0开源离线截屏翻译软件",
+      "share_url": "http://www.share.mwuly.cn/Article/details/321080.sHtML"
+    },
+{
+      "platform": "媒体：请放过一个努力的蓝发女孩",
+      "share_url": "http://www.share.mwuly.cn/Article/details/624522.sHtML"
+    },
+{
+      "platform": "为悦己生活而来！搭载十大全球第一顶尖科技，腾势Z9S正式开启预售",
+      "share_url": "http://www.share.mwuly.cn/Article/details/500163.sHtML"
+    },
+{
+      "platform": "22-0惨败创50年耻辱 水手2亿巨星低级失误遭怒批：该坐一周冷板凳",
+      "share_url": "http://www.share.mwuly.cn/Article/details/891369.sHtML"
+    },
+    {
+      "platform": "朱一龙：大家可以叫我强哥",
+      "share_url": "http://www.share.mwuly.cn/Article/details/302861.sHtML"
+    },
+{
+      "platform": "程莉莎沉浸在郭晓东舞台里无法自拔",
+      "share_url": "http://www.share.mwuly.cn/Article/details/873394.sHtML"
+    },
+{
+      "platform": "佛山通报「教师招聘笔试后5名进体检」，区教育局局长、副局长被立案调查，将重新面试，哪些信息值得关注？",
+      "share_url": "http://www.share.mwuly.cn/Article/details/447434.sHtML"
+    },
+{
+      "platform": "韩媒曝韩国足协曾性贿赂 3 名中国足协人士，中国足协回应已展开调查，哪些信息值得关注？",
+      "share_url": "http://www.share.mwuly.cn/Article/details/931753.sHtML"
+    },
+{
+      "platform": "醉酒男持刀伤人，外卖小哥果断出手！",
+      "share_url": "http://www.share.mwuly.cn/Article/details/080378.sHtML"
+    },
+{
+      "platform": "AI 满篇的“不是……而是……”，我开始不敢写了",
+      "share_url": "http://www.share.mwuly.cn/Article/details/615144.sHtML"
+    },
+{
+      "platform": "性侵幼女、枪杀妻子，美国一曾任职警局红通逃犯潜逃来华，化身高校外教颇受欢迎，被学生在通缉令上认出，已被中国警方遣返回美",
+      "share_url": "http://www.share.mwuly.cn/Article/details/906820.sHtML"
+    },
+{
+      "platform": "时间戳随机修改工具",
+      "share_url": "http://www.share.mwuly.cn/Article/details/653352.sHtML"
+    },
+{
+      "platform": "宇树科技上市首日收涨 460%：开盘一度暴涨 629% 市值突破 4400 亿，中一签浮盈近 35 万元",
+      "share_url": "http://www.share.mwuly.cn/Article/details/662160.sHtML"
+    },
+{
+      "platform": "韩国足协曾“不当招待”赴韩进行裁判交流的3名中国足协工作人员？中国足协回应",
+      "share_url": "http://www.share.mwuly.cn/Article/details/425027.sHtML"
+    },
+    {
+      "platform": "43.89万人次再创新高！第 23 届 ChinaJoy 圆满落幕",
+      "share_url": "http://www.share.mwuly.cn/Article/details/552923.sHtML"
+    },
+{
+      "platform": "俄罗斯一老兵跳伞表演中降落伞未能打开，从600米空中坠亡，其曾试图打开备用降落伞，因距离地面太近失败",
+      "share_url": "http://www.share.mwuly.cn/Article/details/607718.sHtML"
+    },
+{
+      "platform": "这个七夕我先吃为敬",
+      "share_url": "http://www.share.mwuly.cn/Article/details/833662.sHtML"
+    },
+{
+      "platform": "王毅外长将访问韩国",
+      "share_url": "http://www.share.mwuly.cn/Article/details/533481.sHtML"
+    },
+{
+      "platform": "AI 赋能 SRE：打造自愈系统，让运维从故障响应走向自动恢复",
+      "share_url": "http://www.share.mwuly.cn/Article/details/185437.sHtML"
+    },
+{
+      "platform": "8K实拍朱雀三号可回收火箭",
+      "share_url": "http://www.share.mwuly.cn/Article/details/934892.sHtML"
+    },
+{
+      "platform": "《庆余年》演员在山西一景区当NPC，身高2.16米，“我需要稳定收入养家，如今AI短剧普及，很多演员长期无戏可拍……”",
+      "share_url": "http://www.share.mwuly.cn/Article/details/592588.sHtML"
+    },
+{
+      "platform": "儿科医生离世患儿家属送别",
+      "share_url": "http://www.share.mwuly.cn/Article/details/319331.sHtML"
+    },
+{
+      "platform": "第七届中非媒体合作论坛明日开幕",
+      "share_url": "http://www.share.mwuly.cn/Article/details/005592.sHtML"
+    },
+{
+      "platform": "仿生机器人“以假乱真”",
+      "share_url": "http://www.share.mwuly.cn/Article/details/597640.sHtML"
+    }
+]
+}
+<h2>行业趋势点评</h2><br>
+
+<hr></hr><hr></hr><br>
+<h2>**AI Builders Digest* | 每日06:00自动播报 | 数据来源：</h2><br>
+
+<hr></hr><br>
+<p>*报告生成时间：2026年08月22日23时40分49秒*</p>
+<br>
+<p>*数据来源：新浪财经、公开媒体报道*</p>
